@@ -1,0 +1,4 @@
+pandas
+streamlit
+google-cloud-vision
+google-cloud

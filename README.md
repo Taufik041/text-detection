@@ -1,1 +1,18 @@
-# text-detection
+# Text Detection using vision API
+
+A simple Streamlit app that detects the texts in an image. 
+
+
+### How to run it on your own machine
+
+1. Install the requirements
+
+   ```
+   $ pip install -r requirements.txt
+   ```
+
+2. Run the app
+
+   ```
+   $ streamlit run app.py
+   ```
